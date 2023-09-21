@@ -1,4 +1,4 @@
-
+<img align="top" alt="coding" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
 <h1 align="center">Hi 👋, I'm prathepa</h1>
 <h3 align="center">A passionate app developer from India</h3>
 <img align="right"alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="codinggirl" ">
