@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm prathepa</h1>
 <h3 align="center">A passionate app developer from India</h3>
-<img align="right"alt="Coding" width="400" src="https://images.app.goo.gl/vvYcczR4GWYUvA6y8">
+<img align="right"alt="Coding" width="400" src="https://images.app.goo.gl/HVoVdyHecbaCHwCh9">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratheparampriya&label=Profile%20views&color=0e75b6&style=flat" alt="pratheparampriya" /> </p>
 
 - 📫 How to reach me **pratheparamalingam@gmail.com**
