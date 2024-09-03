@@ -18,8 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratheparampriya&show_icons=true&locale=en" alt="pratheparampriya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratheparampriya&" alt="pratheparampriya" /></p>
-
 
 <!---
 Pratheparampriya/Pratheparampriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
